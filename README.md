@@ -1,0 +1,2 @@
+# NgopiYuk-
+Aplikasi Ngopi Yuk! merupakan aplikasi untuk mereview tempat tempat ngopi yang dikunjungi pengguna. Pengguna bebas memasukkan review tempat ngopi sesuai yang benar-benar dialami sehingga pengguna lain akan lebih mudah mencari tempat ngopi yang pas, nyaman, maupun terdekat. Aplikasi ini cocok untuk mahasiswa yang kebingungan mencari tempat ngopi untuk ngobrol, mengerjakan tugas maupun hanya sekedar melepas bosan di rumah.
